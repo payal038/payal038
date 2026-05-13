@@ -74,6 +74,24 @@ Full-stack replication of Zerodha's trading platform — custom design system bu
 
 ---
 
+### AI Projects — LangGraph · RAG · Voice Agents · Memory AI
+
+> Python · LangChain · LangGraph · OpenAI · FastAPI · Qdrant · Redis · Docker
+
+A collection of production-grade AI/ML projects exploring agentic systems, retrieval-augmented generation, and voice AI.
+
+| Project | What it does |
+|---|---|
+| **RAG Queue** | Async RAG pipeline — FastAPI + Redis Queue + Qdrant vector DB |
+| **Voice Agent** | Voice-controlled AI with ReAct reasoning and tool calling |
+| **Memory Agent** | Chatbot with persistent long-term memory via Mem0 + Qdrant |
+| **LangGraph Chatbot** | Stateful conversation with MongoDB checkpointing |
+| **Weather Agent** | ReAct-pattern agent with structured Pydantic outputs |
+
+[![Source](https://img.shields.io/badge/Source-ai--projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PayalMohanapure/ai-projects)
+
+---
+
 ## Technical Skills
 
 **Full Stack**
@@ -91,12 +109,17 @@ Full-stack replication of Zerodha's trading platform — custom design system bu
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C3483?style=flat-square&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=flat-square&logoColor=white)
 
 **Cloud and DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
